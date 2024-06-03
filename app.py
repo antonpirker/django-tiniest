@@ -123,7 +123,7 @@ MAIN_HTML = Template("""
 </head>
 <body>
     <div class="content">
-        <h1>django-tinier</h1>
+        <h1>django-tiniest</h1>
         <h3>The install worked successfully! Congratulations!</h3>
         <br/><br/>
                      
